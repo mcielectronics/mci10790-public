@@ -1,4 +1,4 @@
-# MCI10790 - Rpi 2040 Zero
+# Rpi 2040 Zero
 
 ![Perspectiva](assets/perspectiva.png)
 
